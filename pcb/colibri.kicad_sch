@@ -4063,7 +4063,7 @@
   (symbol (lib_id "kbd:YS-SK6812MINI-E") (at 374.015 214.63 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0816d4d0-16a3-4d36-9322-f7a6c6db27ad)
-    (property "Reference" "rled-27" (id 0) (at 380.365 219.71 0))
+    (property "Reference" "rled-28" (id 0) (at 380.365 219.71 0))
     (property "Value" "YS-SK6812MINI-E" (id 1) (at 381.635 208.28 0)
       (effects (font (size 0.7366 0.7366)) hide)
     )
@@ -5165,7 +5165,7 @@
   (symbol (lib_id "kbd:YS-SK6812MINI-E") (at 338.455 214.63 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5bf13ea5-6457-421f-ba3e-dad4ac2a8516)
-    (property "Reference" "rled-25" (id 0) (at 344.805 219.71 0))
+    (property "Reference" "rled-26" (id 0) (at 344.805 219.71 0))
     (property "Value" "YS-SK6812MINI-E" (id 1) (at 346.075 208.28 0)
       (effects (font (size 0.7366 0.7366)) hide)
     )
@@ -5867,7 +5867,7 @@
   (symbol (lib_id "kbd:YS-SK6812MINI-E") (at 356.235 214.63 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8afd761c-2efa-4d02-881f-a197f486f3bd)
-    (property "Reference" "rled-26" (id 0) (at 362.585 219.71 0))
+    (property "Reference" "rled-27" (id 0) (at 362.585 219.71 0))
     (property "Value" "YS-SK6812MINI-E" (id 1) (at 363.855 208.28 0)
       (effects (font (size 0.7366 0.7366)) hide)
     )
@@ -6407,7 +6407,7 @@
   (symbol (lib_id "kbd:YS-SK6812MINI-E") (at 320.675 214.63 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b48e295e-83d4-4eed-879c-1146f3a47f15)
-    (property "Reference" "rled-?" (id 0) (at 327.025 219.71 0))
+    (property "Reference" "rled-25" (id 0) (at 327.025 219.71 0))
     (property "Value" "YS-SK6812MINI-E" (id 1) (at 328.295 208.28 0)
       (effects (font (size 0.7366 0.7366)) hide)
     )
@@ -8025,17 +8025,17 @@
     (path "/3ca6faab-a81c-4477-a4b4-2106ec722489"
       (reference "rled-24") (unit 1) (value "YS-SK6812MINI-E") (footprint "kbd:YS-SK6812MINI-E")
     )
-    (path "/5bf13ea5-6457-421f-ba3e-dad4ac2a8516"
+    (path "/b48e295e-83d4-4eed-879c-1146f3a47f15"
       (reference "rled-25") (unit 1) (value "YS-SK6812MINI-E") (footprint "kbd:YS-SK6812MINI-E")
     )
-    (path "/8afd761c-2efa-4d02-881f-a197f486f3bd"
+    (path "/5bf13ea5-6457-421f-ba3e-dad4ac2a8516"
       (reference "rled-26") (unit 1) (value "YS-SK6812MINI-E") (footprint "kbd:YS-SK6812MINI-E")
     )
-    (path "/0816d4d0-16a3-4d36-9322-f7a6c6db27ad"
+    (path "/8afd761c-2efa-4d02-881f-a197f486f3bd"
       (reference "rled-27") (unit 1) (value "YS-SK6812MINI-E") (footprint "kbd:YS-SK6812MINI-E")
     )
-    (path "/b48e295e-83d4-4eed-879c-1146f3a47f15"
-      (reference "rled-?") (unit 1) (value "YS-SK6812MINI-E") (footprint "kbd:YS-SK6812MINI-E")
+    (path "/0816d4d0-16a3-4d36-9322-f7a6c6db27ad"
+      (reference "rled-28") (unit 1) (value "YS-SK6812MINI-E") (footprint "kbd:YS-SK6812MINI-E")
     )
     (path "/9f6f9623-ce68-4e21-ac2f-884b8146f2ae"
       (reference "rreset-1") (unit 1) (value "SW_PUSH") (footprint "kbd:ResetSW_4P")
