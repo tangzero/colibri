@@ -5,6 +5,6 @@ this keyboard has not yet been tested
 
 ## Images
 
-![left-pcb](docs/images/left-pcb.png)
-![left-front-3d](docs/images/left-front-3d.jpg)
-![left-back-3d](docs/images/left-back-3d.jpg)
+![pcb-top](docs/images/pcb-top.png)
+![pcb-bottom](docs/images/pcb-bottom.png)
+![pcb-schematics](docs/images/pcb-schematics.png)

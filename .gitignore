@@ -1,3 +1,4 @@
 pcb/colibri.kicad_prl
 pcb/colibri-backups
 pcb/_autosave-colibri.kicad_sch
+*.Identifier
