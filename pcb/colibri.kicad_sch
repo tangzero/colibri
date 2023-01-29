@@ -4252,7 +4252,7 @@
   (symbol (lib_id "power:GND2") (at 365.125 222.25 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 18f50482-b47b-4835-9445-b7eb037280cc)
-    (property "Reference" "#PWR?" (id 0) (at 365.125 228.6 0)
+    (property "Reference" "#PWR0103" (id 0) (at 365.125 228.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND2" (id 1) (at 365.125 225.425 90)
@@ -4356,7 +4356,7 @@
   (symbol (lib_id "power:VDD") (at 258.445 71.12 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 20c09976-f144-43ed-bb4a-ba2a1fd80d14)
-    (property "Reference" "#PWR?" (id 0) (at 254.635 71.12 0)
+    (property "Reference" "#PWR0108" (id 0) (at 254.635 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (id 1) (at 261.62 71.1199 90)
@@ -4581,7 +4581,7 @@
   (symbol (lib_id "power:GND2") (at 329.565 222.25 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 36e8fca4-371a-4673-9720-4f52454ac986)
-    (property "Reference" "#PWR?" (id 0) (at 329.565 228.6 0)
+    (property "Reference" "#PWR0101" (id 0) (at 329.565 228.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND2" (id 1) (at 329.565 225.425 90)
@@ -4737,7 +4737,7 @@
   (symbol (lib_id "power:VDD") (at 224.155 118.745 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3ea07516-c7cc-41df-8a5e-0aae61281542)
-    (property "Reference" "#PWR?" (id 0) (at 224.155 114.935 0)
+    (property "Reference" "#PWR0113" (id 0) (at 224.155 114.935 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (id 1) (at 224.155 125.73 90)
@@ -4893,7 +4893,7 @@
   (symbol (lib_id "power:VDD") (at 382.905 146.05 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 468f7b99-5187-460c-aa75-4ed6851f3dd3)
-    (property "Reference" "#PWR?" (id 0) (at 382.905 149.86 0)
+    (property "Reference" "#PWR0105" (id 0) (at 382.905 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (id 1) (at 382.905 142.875 90)
@@ -5060,7 +5060,7 @@
   (symbol (lib_id "power:VDD") (at 311.785 146.05 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 54428ecb-c9cd-40c8-a115-26cf9f332fe8)
-    (property "Reference" "#PWR?" (id 0) (at 311.785 149.86 0)
+    (property "Reference" "#PWR0106" (id 0) (at 311.785 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (id 1) (at 311.785 142.875 90)
@@ -5286,7 +5286,7 @@
   (symbol (lib_id "power:VDD") (at 347.345 146.05 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5c93dedb-b9b3-40ad-9c4a-d7786af3901b)
-    (property "Reference" "#PWR?" (id 0) (at 347.345 149.86 0)
+    (property "Reference" "#PWR0104" (id 0) (at 347.345 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (id 1) (at 347.345 142.875 90)
@@ -5716,7 +5716,7 @@
   (symbol (lib_id "power:GND2") (at 258.445 66.04 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7a0ddcd6-3967-4b62-9717-3b1bda30e31a)
-    (property "Reference" "#PWR?" (id 0) (at 264.795 66.04 0)
+    (property "Reference" "#PWR0110" (id 0) (at 264.795 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND2" (id 1) (at 261.62 66.0399 90)
@@ -5787,7 +5787,7 @@
   (symbol (lib_id "power:VDD") (at 276.225 146.05 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7f023ea9-d891-4f53-9c5b-b65a82e0f2b0)
-    (property "Reference" "#PWR?" (id 0) (at 276.225 149.86 0)
+    (property "Reference" "#PWR0111" (id 0) (at 276.225 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (id 1) (at 276.225 142.875 90)
@@ -5936,7 +5936,7 @@
   (symbol (lib_id "power:GND2") (at 222.885 69.85 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 878dc7c1-59cf-42a5-9b38-2299ae944725)
-    (property "Reference" "#PWR?" (id 0) (at 216.535 69.85 0)
+    (property "Reference" "#PWR0109" (id 0) (at 216.535 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND2" (id 1) (at 214.63 69.85 90)
@@ -6224,7 +6224,7 @@
   (symbol (lib_id "power:VDD") (at 215.265 144.78 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 97cacd7f-92fc-43b8-910d-235feb64e434)
-    (property "Reference" "#PWR?" (id 0) (at 215.265 148.59 0)
+    (property "Reference" "#PWR0107" (id 0) (at 215.265 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (id 1) (at 215.265 141.605 90)
@@ -6548,7 +6548,7 @@
   (symbol (lib_id "power:GND2") (at 221.615 118.745 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b026db15-1c2e-4fed-a36b-588c6c5d5972)
-    (property "Reference" "#PWR?" (id 0) (at 221.615 125.095 0)
+    (property "Reference" "#PWR0114" (id 0) (at 221.615 125.095 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND2" (id 1) (at 221.6151 121.92 90)
@@ -6721,7 +6721,7 @@
   (symbol (lib_id "power:GND2") (at 220.345 144.78 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid bba96dc9-e74a-42d5-a14f-68ec8f9932f9)
-    (property "Reference" "#PWR?" (id 0) (at 220.345 138.43 0)
+    (property "Reference" "#PWR0112" (id 0) (at 220.345 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND2" (id 1) (at 220.345 141.605 90)
@@ -7324,7 +7324,7 @@
   (symbol (lib_id "power:GND2") (at 294.005 222.25 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e031d9c2-4664-44b6-8595-bf452d8a0e89)
-    (property "Reference" "#PWR?" (id 0) (at 294.005 228.6 0)
+    (property "Reference" "#PWR0102" (id 0) (at 294.005 228.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND2" (id 1) (at 294.005 225.425 90)
@@ -7357,7 +7357,7 @@
   (symbol (lib_id "power:GND2") (at 247.015 118.11 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e349c571-2ee4-40fb-b1e5-808a3b904f32)
-    (property "Reference" "#PWR?" (id 0) (at 247.015 124.46 0)
+    (property "Reference" "#PWR0115" (id 0) (at 247.015 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND2" (id 1) (at 247.0151 121.285 90)
@@ -7848,50 +7848,50 @@
     (path "/164060ca-f470-4b2a-8a84-fcd6b5d8815f"
       (reference "#PWR015") (unit 1) (value "GND1") (footprint "")
     )
-    (path "/18f50482-b47b-4835-9445-b7eb037280cc"
-      (reference "#PWR?") (unit 1) (value "GND2") (footprint "")
-    )
-    (path "/20c09976-f144-43ed-bb4a-ba2a1fd80d14"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
     (path "/36e8fca4-371a-4673-9720-4f52454ac986"
-      (reference "#PWR?") (unit 1) (value "GND2") (footprint "")
-    )
-    (path "/3ea07516-c7cc-41df-8a5e-0aae61281542"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/468f7b99-5187-460c-aa75-4ed6851f3dd3"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/54428ecb-c9cd-40c8-a115-26cf9f332fe8"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/5c93dedb-b9b3-40ad-9c4a-d7786af3901b"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/7a0ddcd6-3967-4b62-9717-3b1bda30e31a"
-      (reference "#PWR?") (unit 1) (value "GND2") (footprint "")
-    )
-    (path "/7f023ea9-d891-4f53-9c5b-b65a82e0f2b0"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/878dc7c1-59cf-42a5-9b38-2299ae944725"
-      (reference "#PWR?") (unit 1) (value "GND2") (footprint "")
-    )
-    (path "/97cacd7f-92fc-43b8-910d-235feb64e434"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/b026db15-1c2e-4fed-a36b-588c6c5d5972"
-      (reference "#PWR?") (unit 1) (value "GND2") (footprint "")
-    )
-    (path "/bba96dc9-e74a-42d5-a14f-68ec8f9932f9"
-      (reference "#PWR?") (unit 1) (value "GND2") (footprint "")
+      (reference "#PWR0101") (unit 1) (value "GND2") (footprint "")
     )
     (path "/e031d9c2-4664-44b6-8595-bf452d8a0e89"
-      (reference "#PWR?") (unit 1) (value "GND2") (footprint "")
+      (reference "#PWR0102") (unit 1) (value "GND2") (footprint "")
+    )
+    (path "/18f50482-b47b-4835-9445-b7eb037280cc"
+      (reference "#PWR0103") (unit 1) (value "GND2") (footprint "")
+    )
+    (path "/5c93dedb-b9b3-40ad-9c4a-d7786af3901b"
+      (reference "#PWR0104") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/468f7b99-5187-460c-aa75-4ed6851f3dd3"
+      (reference "#PWR0105") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/54428ecb-c9cd-40c8-a115-26cf9f332fe8"
+      (reference "#PWR0106") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/97cacd7f-92fc-43b8-910d-235feb64e434"
+      (reference "#PWR0107") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/20c09976-f144-43ed-bb4a-ba2a1fd80d14"
+      (reference "#PWR0108") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/878dc7c1-59cf-42a5-9b38-2299ae944725"
+      (reference "#PWR0109") (unit 1) (value "GND2") (footprint "")
+    )
+    (path "/7a0ddcd6-3967-4b62-9717-3b1bda30e31a"
+      (reference "#PWR0110") (unit 1) (value "GND2") (footprint "")
+    )
+    (path "/7f023ea9-d891-4f53-9c5b-b65a82e0f2b0"
+      (reference "#PWR0111") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/bba96dc9-e74a-42d5-a14f-68ec8f9932f9"
+      (reference "#PWR0112") (unit 1) (value "GND2") (footprint "")
+    )
+    (path "/3ea07516-c7cc-41df-8a5e-0aae61281542"
+      (reference "#PWR0113") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/b026db15-1c2e-4fed-a36b-588c6c5d5972"
+      (reference "#PWR0114") (unit 1) (value "GND2") (footprint "")
     )
     (path "/e349c571-2ee4-40fb-b1e5-808a3b904f32"
-      (reference "#PWR?") (unit 1) (value "GND2") (footprint "")
+      (reference "#PWR0115") (unit 1) (value "GND2") (footprint "")
     )
     (path "/c99b155a-b99a-4c18-ab30-c749a266f98c"
       (reference "ld-1") (unit 1) (value "1N4148W") (footprint "kbd:D3_SMD_v2")
